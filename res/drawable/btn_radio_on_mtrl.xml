@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:name="btn_radio_to_off_mtrl" android:height="32.0dip" android:width="32.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:name="btn_radio_to_off_mtrl_0">
+        <group android:name="ring_outer">
+            <path android:name="ring_outer_path" />
+        </group>
+        <group android:name="dot_group">
+            <path android:name="dot_path" />
+        </group>
+    </group>
+</vector>

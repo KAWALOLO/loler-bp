@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:name="btn_checkbox_checked" android:height="32.0dip" android:width="32.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:name="icon_null" android:scaleX="0.2" android:scaleY="0.2">
+        <group android:name="check" android:scaleX="7.5" android:scaleY="7.5">
+            <path android:name="check_path_merged" />
+        </group>
+        <group android:name="box_dilate" android:scaleX="7.5" android:scaleY="7.5">
+            <path android:name="box_inner_merged" />
+        </group>
+    </group>
+</vector>
